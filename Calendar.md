@@ -20,7 +20,7 @@
 	<td valign="top"> 2 </td>
 	<td valign="top"><a href="week_2_detail.md">Sept 15</a><strong><br>
     Note that Sept 15 is the last day to drop/switch a course </strong><br><br>Color, opacity, gradients <br> Curves <br> BeginShape() EndShape() <br>Comments <br> variables <br></td>
-    <td valign="top"><a href="week_2_detail.md">Sept 20</a><br><strong>Sketch 1 Due February 14th 9AM EST<br>Turning in Assignments</strong>
+    <td valign="top"><a href="week_2_detail.md">Sept 20</a><br><strong>Sketch 1 Due 18:00 EST via openProcessing.org<br>Turning in Assignments</strong>
 	Comments<br>
     println()<br>
 	Variables (Review)<br>
@@ -52,7 +52,7 @@
 	</td>
 </tr>
 <tr>
-	<td><strong>Note: </td>
+	<td><strong>Note: (week 5 continued) </td>
 	<td valign="top"> <strong> Oct 12 is a Tuesday but runs on a Monday Schedule at NYU </strong> <br>
 	 Object Orientated Programming <br>Methods<br>Passing Parameters <br>In-class Challenge <br> </td>
 </tr>
@@ -76,15 +76,15 @@
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">Nov 3</a><del><br>Images + Pixel Manipulations <br></del> Vectors <br>
+	<td valign="top"><a href="week_9_detail.md">Nov 3</a><br>Images + Pixel Manipulations <br>
 		<a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
-	<td valign="top"><a href="week_9_detail.md">Nov 8</a><del><br>Text & String Manipulations	</del> Vectors<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">Nov 8</a><br>Images + Pixel Manipulations	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"> Nov 10<br>Data<br>Images + Pixel Manipulations <br>
+	<td valign="top"> Nov 10<br>Data<br>Text & String Manipulations	 <br>
 	</td>
 	<td valign="top">Nov 15<br>Data<br>Text & String Manipulations	
 	</td>	
@@ -93,13 +93,12 @@
 	<td>11</td>
 	<td valign="top">Nov 17<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
 	</td>
-	<td valign="top">Nov 22<br><strong><a href = "RoundTable.md">  Roundtable for Final Projects</a></strong> <br> Text & String Manipulations<br>
+	<td valign="top">Nov 22<br><strong><a href = "RoundTable.md">  Roundtable for Final Projects</a></strong> 
 	</td>
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">Nov 24<br><br> 
-	<br>Strings + API's<br></strong>
+	<td valign="top">Nov 24<br>Strings + API's<br></strong>
 	</td>
 	<td valign="top">Nov 29<br><strong>Sound<br>P5 Play Library<br>Topics by request<br></strong>
 	</td>
