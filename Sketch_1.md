@@ -4,7 +4,7 @@
 ## Sketch 1 Composition
 
 #### Due Sept 22nd 18:00 EST 
-#### Submit on openProcessing (check Slack announcement for invitation and syllabus for URL)
+#### Submit on openProcessing (check Slack announcement channel for invitation and syllabus for URL)
 			
 _Come to class on Sept 20 with the sketch started and we will demo how to submit it together in class_
 
