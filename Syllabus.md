@@ -3,8 +3,8 @@ Creative Coding Syllabus &amp; Class repo
 
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
-* [Slack Workspace]()
-* [openProcessing Workspace (where homework is submitted)]()
+* [Slack Workspace](creativecodin-xla8578.slack.com) (Note: you must first join the slack workspace to access it. You can find the link to join in week 1's weekly breakout page)
+* [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/70736)
 * **Office Hours: Virtually Tuesday 10am-12pm EST, Message me in Slack on Tuesday Morning and I'll send a Zoom link. First Come, First Serve. Otherwise, I can meet briefly after class. Please message me in advance to set up.**
 
 # Creative Coding: An Intro to Creative Coding
@@ -109,7 +109,7 @@ Attendance is mandatory and will be noted, whether you are synchronous or asynch
 
 • Work is still due on due dates, regardless of whether you are in class or not.
 
-• Contact me in advance if you will not be in class. ([Slack]() Direct message is preferred). Demonstrate time management, communication and respect.
+• Contact me in advance if you will not be in class. ([Slack](creativecodin-xla8578.slack.com) DIRECT MESSAGE is preferred). Demonstrate time management, communication and respect.
 
 • Be on time! Lateness will affect your grade. For every 15 minutes you are late, your participation grade drops.
 
@@ -118,7 +118,7 @@ Attendance is mandatory and will be noted, whether you are synchronous or asynch
 • If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues, etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. They are there to support you. 
 
 ## Contacting Me
-[Slack]() Direct Message is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), most especially if it is time urgent/sensitive. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
+[Slack](creativecodin-xla8578.slack.com) DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), most especially if it is time urgent/sensitive. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
 
 For matters longer than 5 sentences, please direct message me to make an appointment. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a super long message, I am simply going to respond by asking you to meet with me synchronously to resolve the matter. I will not resolve matters asynchronously. Period.
 
@@ -148,7 +148,7 @@ This book is available for purchase in the NYU bookstore. You can check the stat
 
 • A notebook/sketchbook and a pen. At all times.
 
-• [Slack](https://creativecodin-jci9388.slack.com) 
+• [Slack](creativecodin-xla8578.slack.com) 
 
 • [Resources](Resources.md)
 
@@ -178,7 +178,7 @@ A typical week will aim for the following schedule:
 
 • **Pair programming** is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due at the end of the class period and presented to class. It is not to be completed individually, nor asynchronously with your partner. On occasions the deadline will be at another point. Yet, the exercise is meant to be worked on together - on one laptop, in one program. If you are asynchronous that day, I will pair you up with another asynchronous student, if there is one. You will have one week to complete the assignment, meaning you have 6 days to find a congruent time to be synchronous for 30 minutes to complete the exercise. The professor will pair you up via Slack direct messages. 
 
-• **Homework projects will be turned in via [OpenProcessing.org]()**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
+• **Homework projects will be turned in via [OpenProcessing.org](https://openprocessing.org/class/70736)**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
 • **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-12 hours outside of class to succeed.
 
 My personal favorite time management tools are [KanBan](https://leankit.com/learn/kanban/what-is-kanban/), [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) (also available in undated), the [Pomodoro technique](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730), [Self Control](https://selfcontrolapp.com/)  
