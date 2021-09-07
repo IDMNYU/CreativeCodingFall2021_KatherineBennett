@@ -5,7 +5,7 @@ Creative Coding Syllabus &amp; Class repo
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack Workspace]()
 * [openProcessing Workspace (where homework is submitted)]()
-* **Office Hours: Virtually Tuesday 10am-12pm EST, Message me in Slack on Tuesday Morning and I'll send a Zoom link. First Come, First Serve. Otherwise, I can meet briefly after class. Please message me in advance to set up.
+* **Office Hours: Virtually Tuesday 10am-12pm EST, Message me in Slack on Tuesday Morning and I'll send a Zoom link. First Come, First Serve. Otherwise, I can meet briefly after class. Please message me in advance to set up.**
 
 # Creative Coding: An Intro to Creative Coding
 
@@ -178,7 +178,7 @@ A typical week will aim for the following schedule:
 
 • **Pair programming** is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due at the end of the class period and presented to class. It is not to be completed individually, nor asynchronously with your partner. On occasions the deadline will be at another point. Yet, the exercise is meant to be worked on together - on one laptop, in one program. If you are asynchronous that day, I will pair you up with another asynchronous student, if there is one. You will have one week to complete the assignment, meaning you have 6 days to find a congruent time to be synchronous for 30 minutes to complete the exercise. The professor will pair you up via Slack direct messages. 
 
-• **Homework projects will be turned in via [OpenProcessing.org](). At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
+• **Homework projects will be turned in via [OpenProcessing.org]()**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
 • **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-12 hours outside of class to succeed.
 
 My personal favorite time management tools are [KanBan](https://leankit.com/learn/kanban/what-is-kanban/), [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) (also available in undated), the [Pomodoro technique](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730), [Self Control](https://selfcontrolapp.com/)  
@@ -303,7 +303,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 ### Late Work
 
-Unless specified, work is due on Sunday by 9:00 EST, via OpenProcessing or Repl. The submission place will be listed on the assignment brief.
+An assignment (ie, Sketches & Projects) will be listed on the assignment brief. Challenges are due the day they are assigned and to be submitted during class. Period.
 
 Work that is turned in after class but still on the due date get's 1/3 letter grade deduction. Work that is turned in the same week, get's 2/3 grade deduction. Subsequent submissions get one letter grade deduction for every week that it is late, beyond the first week. The lowest possible grade a late assignment will be given, will be an "F". Deductions are calculated AFTER the initial grade is given.
 

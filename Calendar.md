@@ -1,5 +1,5 @@
 # DM-UY 1133-E Creative Coding
-##### Fall 2021 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50pm 
+##### Fall 2021 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
 
 ## CALENDAR Overview | Click a week to get the homework assignments and weekly detail
 ### Calendar & Weekly Detail is subject to change at any time. Check back regularly.
@@ -53,8 +53,8 @@
 </tr>
 <tr>
 	<td><strong>Note: </td>
-	<td valign="top"> Oct 12 runs on a Monday Schedule at NYU </td>
-	<td> Object Orientated Programming <br>Methods<br>Passing Parameters <br>In-class Challenge <br> </td></strong>
+	<td valign="top"> <strong> Oct 12 is a Tuesday but runs on a Monday Schedule at NYU </strong> <br>
+	 Object Orientated Programming <br>Methods<br>Passing Parameters <br>In-class Challenge <br> </td>
 </tr>
 <tr>
 <tr>
