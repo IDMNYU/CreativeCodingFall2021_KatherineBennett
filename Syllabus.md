@@ -3,7 +3,7 @@ Creative Coding Syllabus &amp; Class repo
 
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
-* [Slack Workspace](creativecodin-xla8578.slack.com) (Note: you must first join the slack workspace to access it. You can find the link to join in week 1's weekly breakout page)
+* [Slack Workspace](https://creativecodin-xla8578.slack.com) (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
 * [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/70736)
 * **Office Hours: Virtually Tuesday 10am-12pm EST, Message me in Slack on Tuesday Morning and I'll send a Zoom link. First Come, First Serve. Otherwise, I can meet briefly after class. Please message me in advance to set up.**
 
@@ -109,7 +109,7 @@ Attendance is mandatory and will be noted, whether you are synchronous or asynch
 
 • Work is still due on due dates, regardless of whether you are in class or not.
 
-• Contact me in advance if you will not be in class. ([Slack](creativecodin-xla8578.slack.com) DIRECT MESSAGE is preferred). Demonstrate time management, communication and respect.
+• Contact me in advance if you will not be in class. ([Slack](https://creativecodin-xla8578.slack.com) DIRECT MESSAGE is preferred). Demonstrate time management, communication and respect.
 
 • Be on time! Lateness will affect your grade. For every 15 minutes you are late, your participation grade drops.
 
@@ -118,7 +118,7 @@ Attendance is mandatory and will be noted, whether you are synchronous or asynch
 • If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues, etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. They are there to support you. 
 
 ## Contacting Me
-[Slack](creativecodin-xla8578.slack.com) DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), most especially if it is time urgent/sensitive. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
+[Slack](https://creativecodin-xla8578.slack.com) DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), most especially if it is time urgent/sensitive. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
 
 For matters longer than 5 sentences, please direct message me to make an appointment. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a super long message, I am simply going to respond by asking you to meet with me synchronously to resolve the matter. I will not resolve matters asynchronously. Period.
 
@@ -148,7 +148,7 @@ This book is available for purchase in the NYU bookstore. You can check the stat
 
 • A notebook/sketchbook and a pen. At all times.
 
-• [Slack](creativecodin-xla8578.slack.com) 
+• [Slack](https://creativecodin-xla8578.slack.com) 
 
 • [Resources](Resources.md)
 
