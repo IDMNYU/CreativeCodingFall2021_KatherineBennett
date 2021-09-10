@@ -34,7 +34,7 @@
 	<td valign="top" width="48%">
 		<li><a href = "https://forms.gle/rASd6cy4SXBnrhte8">Fill out Survey if you have not already done so.</a></li>
 		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li> </a>
-		<ol>
+		<ul>
 			<li>1.1 Drawing with Pixels - https://youtu.be/a562vsSI2Po</li>
 <li>1.3 Basics of drawing - https://youtu.be/D1ELEeIs0j8</li>
 
@@ -51,7 +51,7 @@
 <li>4.2 Incrementing a variable - https://youtu.be/rZ36BzXFT6Q</li>
 <li>4.3 Using random() - https://youtu.be/50Rzvxvi8D0</li>
 <li>4.4 Using Println() - https://youtu.be/G9uDQBoHp08</li>
-</ol>
+</ul>
 		<li> overall structure: setup() and draw(). </li>
 		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
 		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
