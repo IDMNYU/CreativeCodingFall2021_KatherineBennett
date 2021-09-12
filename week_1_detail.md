@@ -33,25 +33,6 @@
 	<!-- day Wed -->
 	<td valign="top" width="48%">
 		<li><a href = "https://forms.gle/rASd6cy4SXBnrhte8">Fill out Survey if you have not already done so.</a></li>
-		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li> </a>
-		<ul>
-			<li>1.1 Drawing with Pixels - https://youtu.be/a562vsSI2Po</li>
-<li>1.3 Basics of drawing - https://youtu.be/D1ELEeIs0j8</li>
-
-
-<li>2.1 How to use Processing - https://youtu.be/5N31KNgOO0g</li>
-<li>2.2 RGB color - https://youtu.be/n2oHuKG_BQc</li>
-
-<li>3: Interaction (playlist) - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD</li>
-<li>3.1 Flow (Setup and draw) - https://youtu.be/o8dffrZ86gs</li>
-<li>3.2 Built-in Variables (mouseX, mouseY) - https://youtu.be/ibW4oA7-n8I</li>
-<li>3.3 Events (mousePressed, keyPressed) - https://youtu.be/UvSjtiW-RH8</li>
-<li>4: Variables (playlist) - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFNOgoIMSbSYOkKNTo89uf</li>
-<li>4.1 Variables - https://youtu.be/B-ycSR3ntik</li>
-<li>4.2 Incrementing a variable - https://youtu.be/rZ36BzXFT6Q</li>
-<li>4.3 Using random() - https://youtu.be/50Rzvxvi8D0</li>
-<li>4.4 Using Println() - https://youtu.be/G9uDQBoHp08</li>
-</ul>
 		<li> overall structure: setup() and draw(). </li>
 		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
 		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
@@ -80,12 +61,45 @@
  		<li>Get a <a href = https://github.com/>Github 	account</a></li>
 		<li>Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).</li>
  		<li>Install <a href = https://processing.org/download/>Processing</a>. </li> <li>Go through the examples in Processing and explore them.</li>
-	   <li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li>
+	   <li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li> </a>
+		<ul>
+			<li>1.1 Drawing with Pixels - https://youtu.be/a562vsSI2Po</li>
+<li>1.3 Basics of drawing - https://youtu.be/D1ELEeIs0j8</li>
+<li>2.1 How to use Processing - https://youtu.be/5N31KNgOO0g</li>
+<li>2.2 RGB color - https://youtu.be/n2oHuKG_BQc</li>
+<li>3: Interaction (playlist) - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD</li>
+<li>3.1 Flow (Setup and draw) - https://youtu.be/o8dffrZ86gs</li>
+<li>3.2 Built-in Variables (mouseX, mouseY) - https://youtu.be/ibW4oA7-n8I</li>
+<li>3.3 Events (mousePressed, keyPressed) - https://youtu.be/UvSjtiW-RH8</li>
+<li>4: Variables (playlist) - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFNOgoIMSbSYOkKNTo89uf</li>
+<li>4.1 Variables - https://youtu.be/B-ycSR3ntik</li>
+<li>4.2 Incrementing a variable - https://youtu.be/rZ36BzXFT6Q</li>
+<li>4.3 Using random() - https://youtu.be/50Rzvxvi8D0</li>
+<li>4.4 Using Println() - https://youtu.be/G9uDQBoHp08</li>
+</ul>
  	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
   	<li>Review Chapters 1 + 2 in the Learning Processing Book</li>
-  	<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li>
+  	<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li> </a>
+		<ul>
+			<li>1.1 Drawing with Pixels - https://youtu.be/a562vsSI2Po</li>
+<li>1.3 Basics of drawing - https://youtu.be/D1ELEeIs0j8</li>
+
+
+<li>2.1 How to use Processing - https://youtu.be/5N31KNgOO0g</li>
+<li>2.2 RGB color - https://youtu.be/n2oHuKG_BQc</li>
+
+<li>3: Interaction (playlist) - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD</li>
+<li>3.1 Flow (Setup and draw) - https://youtu.be/o8dffrZ86gs</li>
+<li>3.2 Built-in Variables (mouseX, mouseY) - https://youtu.be/ibW4oA7-n8I</li>
+<li>3.3 Events (mousePressed, keyPressed) - https://youtu.be/UvSjtiW-RH8</li>
+<li>4: Variables (playlist) - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFNOgoIMSbSYOkKNTo89uf</li>
+<li>4.1 Variables - https://youtu.be/B-ycSR3ntik</li>
+<li>4.2 Incrementing a variable - https://youtu.be/rZ36BzXFT6Q</li>
+<li>4.3 Using random() - https://youtu.be/50Rzvxvi8D0</li>
+<li>4.4 Using Println() - https://youtu.be/G9uDQBoHp08</li>
+</ul>
  	<li><a href = "Sketch_1.md"> Sketch 1</li>
  	</td>
 </tr>
