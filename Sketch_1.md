@@ -26,6 +26,9 @@ Recommendations: Do not do this in one sitting. Take breaks. Work on this in sev
 * Understanding screen coordinates (where to place the shapes), creating shapes, using color, opacity are key here in building your compositions
 * Your sketch size must be 800 x 800 pixels
 * You may take a “meaty” crop of one of these images and re-create it
+* Your code must yield the final result. It is not user generated (ie, mouse values, key values) and it is not randomly generated. 
+* Don’t wait for inspiration to start the homework. Just start. 
+* Don’t wait until you like something or have an idea. Just start.
 
 #### Tips:
 
