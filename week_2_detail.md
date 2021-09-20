@@ -52,8 +52,8 @@
 	<li> Generative Design - P.0, P.1.2.3 - P.2.1.3 </li>
 	<li> Watch:  <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 5-6 (including sub-videos)</li> 
 		<ol>
-			<li>5: Conditionals (playlist) - https://youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_</li>
-			<li>6: Loops (playlist) https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ</li></a>	
+			<li>5: <a href = "https://youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_"Conditionals (playlist) - https://youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_</li></a> <br>
+			<li>6: <a href = "https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ"> Loops (playlist) https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ </a>a</li></a>	
   	</td>
  </tr>
  <!-- do -->
