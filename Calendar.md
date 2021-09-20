@@ -8,8 +8,8 @@
 <table>
 <tr>
 	<th width="4%">Wk</th> 
-	<th width="48%">Monday</th> 
 	<th width="48%">Wednesday</th> 
+	<th width="48%">Monday</th> 
 </tr>
 <tr>
 	<td valign="top"><a href="week_1_detail.md">1</a></td>
@@ -28,7 +28,7 @@
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
-	<td valign="top"><a href="week_3_detail.md">Sept 22</a> <strong> Sketch 1 Due 18:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br>
+	<td valign="top"><a href="week_3_detail.md">Sept 22</a><br> <strong> Sketch 1 Due 18:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br>
 	Loops<br> Variable scope <br>
 	</td>
 	<td valign="top"><a href="week_3_detail.md">Sept 27</a><br>DeBugger + Loops (review)<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
