@@ -20,7 +20,7 @@
 	<td valign="top"> 2 </td>
 	<td valign="top"><a href="week_2_detail.md">Sept 15</a><strong><br>
     Note that Sept 15 is the last day to drop/switch a course </strong><br><br>Color, opacity, gradients <br> Curves <br> BeginShape() EndShape() <br>Comments <br> variables <br></td>
-    <td valign="top"><a href="week_2_detail.md">Sept 20</a><br><strong>Sketch 1 Due 18:00 EST via openProcessing.org<br>Turning in Assignments</strong>
+    <td valign="top"><a href="week_2_detail.md">Sept 20</a><br><strong><strike>Sketch 1 Due 18:00 EST via openProcessing.org</strike><br>Turning in Assignments</strong>
 	Comments<br>
     println()<br>
 	Variables (Review)<br>
@@ -28,7 +28,7 @@
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
-	<td valign="top"><a href="week_3_detail.md">Sept 22</a> <br>Control Statements<br>Operators<br>Code Blocks<br>
+	<td valign="top"><a href="week_3_detail.md">Sept 22</a> <strong> Sketch 1 Due 18:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br>
 	Loops<br> Variable scope <br>
 	</td>
 	<td valign="top"><a href="week_3_detail.md">Sept 27</a><br>DeBugger + Loops (review)<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
