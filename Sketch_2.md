@@ -5,8 +5,8 @@
 
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
-#### ~~Due Sept 28th 7:00 pm/19:00 EST~~
-#### Due Oct 3rd 20:00/8 pm EST
+#### ~~Due Oct 3rd 20:00/8 pm EST~~
+#### Due Oct 6rd 20:00/8 pm EST
 
         
 
