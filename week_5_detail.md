@@ -20,16 +20,16 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 <td valign="top" width="48%">
-  Introduce Project 1<br>
-  Functions + passing parameters <br>
-  Object Orientated Programming <br>
-  Methods<br>
+   Functions + passing parameters <br>
+  Matrix Transformations <br>
+  Sketch 3 <br>
+  Switch Statement <br>
 </td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-		Object Orientated Programming <br>
-  Passing Parameters <br>
-  In-class Challenge <br>
+    Introduce Project 1<br>
+  Object Orientated Programming <br>
+  Methods<br>
 		</td>
 <!-- homework -->
 <tr>
@@ -50,17 +50,13 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "Project_1.md"> <strike> Work on Project 1 </strike></a> <br>
- 		<strike> Push your progress to your GitHub repo </strike>
-    <a href = "Sketch_2.md"> Revise your Sketch 2 </a>
+    <a href = "Sketch_3.md"> Sketch 3 </a>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-		<strike><a href = "Project_1.md"> Work on Project 1 </a> <br> </strike>
-		<strike> Push your progress to your GitHub </strike>
-    <a href = "Sketch_2.md"> Revise your Sketch 2 </a>
+    Read 6 of the Letters To The Next CoHort, found in the Slack #Resources Channel. Write a brief reflection and send it to me via a Slack DM. <br>
     <a href = "Sketch_3.md"> Sketch 3 </a>
-    Brain storm an adjective for your Midterm project. Come to class on Tuesday with it. If you want to get working on it, sketch it out visually.
+    Brain storm an adjective for your Midterm project. Come to the next class with it. If you want to get working on it, sketch it out visually.
   	</td> 	
 </tr>
 </table>

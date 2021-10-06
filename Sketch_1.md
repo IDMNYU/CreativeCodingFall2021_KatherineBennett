@@ -17,6 +17,7 @@ Recommendations: Do not do this in one sitting. Take breaks. Work on this in sev
 
 #### Key aspects:
 
+* Think: density and diversity of shapes. Take up the entire sketch window
 * On the https://processing.org/reference/, utilize the listings under: 2D Primitives, Curves, Attributes, Vertex, and Color
 * Use a variety of different shapes, and different sizes
 * Create your own shapes using beginShape(), vertex(), endShape()

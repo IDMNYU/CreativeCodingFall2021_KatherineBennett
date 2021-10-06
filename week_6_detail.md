@@ -35,6 +35,7 @@
   	<!-- day Tues -->
   	<td valign="top"> 
 	<li>Read: <a href = "https://natureofcode.com/book/chapter-1-vectors/"> Nature of Code chapter 1 </a> </li>
+	<li> Read: <a href = "https://github.com/processing/p5.js/wiki/Processing-transition">Processing Transition to P5 </a></li>
 	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
