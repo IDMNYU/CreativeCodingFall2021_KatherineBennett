@@ -39,7 +39,7 @@
 	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
-  		<li> Watch: <a href = "https://vimeo.com/channels/natureofcode/page:1">Vectors 1.1-1.6</a></li>
+  		<li> Watch: <a href = "https://youtu.be/6vX8wT1G798">Vectors 1.1-1.6</a></li>
     <a href ="http://natureofcode.com/">Nature of Code: READ Chapter 2</a>
   	</td>
  </tr>
@@ -53,7 +53,7 @@
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-	<a href = "Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
+	<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
 	<a href = "Project_1.md"> Work on Project 1 </a> <br>
  		Push your progress to your GitHub repo
  	</td>
