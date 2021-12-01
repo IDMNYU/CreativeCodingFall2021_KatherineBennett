@@ -119,7 +119,7 @@
 	</td>
 </tr>
 <tr><td>EXAM WEEK</td>	
-	<td valign="top">Dec 17<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight<br>
+	<td valign="top">Dec 19<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight<br>
 	Letter to the Next Cohort DUE by midnight.</td> </a><td valign="top"> <br>Have a great holiday break! Stay safe and healthy!<br></strong> 
 	</td>
 <tr>
